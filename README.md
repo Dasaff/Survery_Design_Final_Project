@@ -11,4 +11,15 @@ Real time Twitter data comes from https://www.vicinitas.io with tags: medicare f
 Because we are relying on Twitter data, our survey does not have a questionaire. Instead, we are taking our data from the textual analysis done to the tweets. We are looking at what users' general attitudes are towards the policy.
 
 # Analysis Methods: Sentiment Analysis
-Sentiment scores calculated using Bing index, producing a positve and negative sentiment score for each tweet. A total sentiment rating was then calculated and used for further analysis. 
+Sentiment scores calculated using Bing index, producing a positve and negative sentiment score for each tweet. A total sentiment rating was then calculated and used for further analysis. See RMD file.
+
+# Pilot Study
+Though we have already gone ahead with a more in-depth sentiment analysis, here is a preliminary study we conducted by manually going through a set of tweets and assigning them as positive, negative, or neutral:
+
+The search of keywords on twitter regarding Medicare for all resulted to over 2000 tweets that have focused on the topic. From the 2000 identified tweets, we pulled out 753 usable tweets for the analysis as some of the tweets were in foreign languages making it difficult for one to assess them and understand whether they are neutral, positive or negative on Medicare for all programs. The results from the 750 respondents who took part in the study are shown in the figure below
+
+Positive 518 69%
+Neutral  139 18%
+Negative  96 13%
+Total    753 100%
+
