@@ -19,7 +19,10 @@ Though we have already gone ahead with a more in-depth sentiment analysis, here 
 The search of keywords on twitter regarding Medicare for all resulted to over 2000 tweets that have focused on the topic. From the 2000 identified tweets, we pulled out 753 usable tweets for the analysis as some of the tweets were in foreign languages making it difficult for one to assess them and understand whether they are neutral, positive or negative on Medicare for all programs. The results from the 750 respondents who took part in the study are shown in the figure below
 
 Positive 518 69%
+
 Neutral  139 18%
+
 Negative  96 13%
+
 Total    753 100%
 
